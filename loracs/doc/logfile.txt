@@ -1,0 +1,106 @@
+Project documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.7.0\bin\javadoc.exe
+-sourcepath
+C:\Users\naiara\Documents\java\loracs2
+-classpath
+C:\Users\naiara\Documents\my_programs\bluej\lib\bluejcore.jar;C:\Users\naiara\Documents\my_programs\bluej\lib\junit.jar;C:\Users\naiara\Documents\java\loracs2
+-d
+C:\Users\naiara\Documents\java\loracs2\doc
+-source
+1.7
+-doctitle
+loracs2
+-windowtitle
+loracs2
+-link
+http://java.sun.com/j2se/1.5/docs/api/
+-author
+-version
+-nodeprecated
+-package
+C:\Users\naiara\Documents\java\loracs2/Panel.java
+C:\Users\naiara\Documents\java\loracs2/ComputeAll.java
+C:\Users\naiara\Documents\java\loracs2/ShortestPath.java
+C:\Users\naiara\Documents\java\loracs2/AsciiFilter.java
+C:\Users\naiara\Documents\java\loracs2/Pair.java
+C:\Users\naiara\Documents\java\loracs2/RasterIO.java
+C:\Users\naiara\Documents\java\loracs2/MyVertex.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\naiara\Documents\java\loracs2/Panel.java...
+Loading source file C:\Users\naiara\Documents\java\loracs2/ComputeAll.java...
+Loading source file C:\Users\naiara\Documents\java\loracs2/ShortestPath.java...
+Loading source file C:\Users\naiara\Documents\java\loracs2/AsciiFilter.java...
+Loading source file C:\Users\naiara\Documents\java\loracs2/Pair.java...
+Loading source file C:\Users\naiara\Documents\java\loracs2/RasterIO.java...
+Loading source file C:\Users\naiara\Documents\java\loracs2/MyVertex.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0-ea
+Building tree for all the packages and classes...
+Generating C:\Users\naiara\Documents\java\loracs2\doc\AsciiFilter.html...
+Generating C:\Users\naiara\Documents\java\loracs2\doc\ComputeAll.html...
+C:\Users\naiara\Documents\java\loracs2\ComputeAll.java:96: warning - @param argument "String" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\ComputeAll.java:96: warning - @param argument "String" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\ComputeAll.java:96: warning - @param argument "int" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\ComputeAll.java:96: warning - @param argument "double" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\ComputeAll.java:96: warning - @param argument "String" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\ComputeAll.java:139: warning - @param argument "String" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\ComputeAll.java:139: warning - @param argument "String" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\ComputeAll.java:139: warning - @param argument "double" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\ComputeAll.java:139: warning - @param argument "String" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\ComputeAll.java:139: warning - @param argument "int" is not a parameter name.
+Generating C:\Users\naiara\Documents\java\loracs2\doc\MyVertex.html...
+C:\Users\naiara\Documents\java\loracs2\MyVertex.java:25: warning - @parem is an unknown tag.
+C:\Users\naiara\Documents\java\loracs2\MyVertex.java:25: warning - @param argument "int" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\MyVertex.java:25: warning - @param argument "int" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\MyVertex.java:25: warning - @param argument "int" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\MyVertex.java:25: warning - @param argument "double" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\MyVertex.java:158: warning - @param argument "MyVertex" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\MyVertex.java:118: warning - @param argument "double" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\MyVertex.java:118: warning - @param argument "MyVertex[][]" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\MyVertex.java:118: warning - @param argument "boolean" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\MyVertex.java:92: warning - @param argument "String" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\MyVertex.java:99: warning - @param argument "int" is not a parameter name.
+Generating C:\Users\naiara\Documents\java\loracs2\doc\Pair.html...
+Generating C:\Users\naiara\Documents\java\loracs2\doc\Panel.html...
+C:\Users\naiara\Documents\java\loracs2\Panel.java:166: warning - @param argument "ActionEvent:" is not a parameter name.
+Generating C:\Users\naiara\Documents\java\loracs2\doc\Panel.Task.html...
+Generating C:\Users\naiara\Documents\java\loracs2\doc\RasterIO.html...
+C:\Users\naiara\Documents\java\loracs2\RasterIO.java:63: warning - @param argument "String" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\RasterIO.java:63: warning - @param argument "String" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\RasterIO.java:260: warning - @parm is an unknown tag.
+C:\Users\naiara\Documents\java\loracs2\RasterIO.java:260: warning - @parm is an unknown tag.
+C:\Users\naiara\Documents\java\loracs2\RasterIO.java:164: warning - @param argument "MyVertex[][]" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\RasterIO.java:237: warning - @param argument "String" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\RasterIO.java:237: warning - @param argument "int" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\RasterIO.java:237: warning - @param argument "int" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\RasterIO.java:204: warning - @param argument "double[][]" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\RasterIO.java:204: warning - @param argument "String" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\RasterIO.java:220: warning - @param argument "int[][]" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\RasterIO.java:220: warning - @param argument "String" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\RasterIO.java:188: warning - @param argument "MyVertex[][]" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\RasterIO.java:188: warning - @param argument "String" is not a parameter name.
+Generating C:\Users\naiara\Documents\java\loracs2\doc\ShortestPath.html...
+C:\Users\naiara\Documents\java\loracs2\ShortestPath.java:74: warning - @param argument "MyVertex[][]" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\ShortestPath.java:74: warning - @param argument "HashSet" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\ShortestPath.java:74: warning - @param argument "double" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\ShortestPath.java:74: warning - @param argument "boolean" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\ShortestPath.java:167: warning - @param argument "MyVertex" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\ShortestPath.java:178: warning - @param argument "MyVertex" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\ShortestPath.java:223: warning - @param argument "String" is not a parameter name.
+C:\Users\naiara\Documents\java\loracs2\ShortestPath.java:223: warning - @param argument "String" is not a parameter name.
+Generating C:\Users\naiara\Documents\java\loracs2\doc\package-frame.html...
+Generating C:\Users\naiara\Documents\java\loracs2\doc\package-summary.html...
+Generating C:\Users\naiara\Documents\java\loracs2\doc\package-tree.html...
+Generating C:\Users\naiara\Documents\java\loracs2\doc\constant-values.html...
+Generating C:\Users\naiara\Documents\java\loracs2\doc\serialized-form.html...
+Building index for all the packages and classes...
+Generating C:\Users\naiara\Documents\java\loracs2\doc\overview-tree.html...
+Generating C:\Users\naiara\Documents\java\loracs2\doc\index-all.html...
+Building index for all classes...
+Generating C:\Users\naiara\Documents\java\loracs2\doc\allclasses-frame.html...
+Generating C:\Users\naiara\Documents\java\loracs2\doc\allclasses-noframe.html...
+Generating C:\Users\naiara\Documents\java\loracs2\doc\index.html...
+Generating C:\Users\naiara\Documents\java\loracs2\doc\help-doc.html...
+Generating C:\Users\naiara\Documents\java\loracs2\doc\stylesheet.css...
+44 warnings
